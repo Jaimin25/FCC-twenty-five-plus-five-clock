@@ -88,6 +88,7 @@ function App() {
 
 	return (
 		<div className="main">
+			<h1>25 + 5 Clock</h1>
 			<div className="break-session-length">
 				<div id="break-label">
 					<p>Break Length</p>
